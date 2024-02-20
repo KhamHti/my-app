@@ -20,7 +20,9 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#ffffff",
+        "package": "com.myapp.app",
+        "googleMapsApiKey": "AIzaSyBjuMZoJi3S_Z8KAy-B5T-ym9p3uKW_RI0"
       }
     },
     "web": {
